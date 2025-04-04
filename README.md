@@ -1,52 +1,38 @@
-# UN Sustainable Development Goals Awareness App
+# SDG Awareness Application
 
-This web application is designed to raise awareness about the United Nations' 17 Sustainable Development Goals (SDGs). It provides detailed information about each goal, including targets, key facts, and ways to contribute to their achievement.
+A React application for raising awareness about the United Nations Sustainable Development Goals (SDGs).
 
 ## Features
 
-- Interactive display of all 17 SDGs
-- Detailed information about each SDG
-- Key targets and facts for each goal
+- Interactive SDG cards with detailed information
+- Dark/Light mode toggle
 - Responsive design for all devices
-- Modern and intuitive user interface
+- Detailed SDG pages with targets and indicators
+
+## Deployment Instructions
+
+### Deploy to Netlify
+
+1. Create a free account on [Netlify](https://www.netlify.com/)
+2. Connect your GitHub repository to Netlify
+3. Configure the build settings:
+   - Build command: `npm run build`
+   - Publish directory: `build`
+4. Deploy!
+
+## Local Development
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Technologies Used
 
-- React.js
+- React
 - Material-UI
 - React Router
 - Framer Motion
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm (v6 or higher)
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone [repository-url]
-```
-
-2. Navigate to the project directory:
-```bash
-cd sdg-awareness-app
-```
-
-3. Install dependencies:
-```bash
-npm install
-```
-
-4. Start the development server:
-```bash
-npm start
-```
-
-The application will open in your default browser at `http://localhost:3000`.
 
 ## Project Structure
 
