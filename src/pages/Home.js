@@ -3,7 +3,6 @@ import { Container, Grid, Card, CardContent, CardMedia, Typography, Box, Paper, 
 import { motion } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
 import SDGFilter from '../components/SDGFilter';
-import SDGProgress from '../components/SDGProgress';
 
 const sdgData = [
   {
@@ -139,12 +138,9 @@ const Home = () => {
         sdg.title.toLowerCase().includes(filters.searchTerm.toLowerCase()) ||
         sdg.description.toLowerCase().includes(filters.searchTerm.toLowerCase());
       
-      // Simple category filtering - in a real app, each SDG would have a category property
-      const matchesCategory = filters.category === 'all' || 
-        (filters.category === 'social' && [1, 3, 4, 5, 10].includes(sdg.id)) ||
-        (filters.category === 'economic' && [1, 2, 8, 9, 17].includes(sdg.id)) ||
-        (filters.category === 'environmental' && [6, 7, 13, 14, 15].includes(sdg.id)) ||
-        (filters.category === 'governance' && [16, 17].includes(sdg.id));
+      const matchesCategory = 
+        filters.category === 'all' || 
+        sdg.category === filters.category;
       
       return matchesSearch && matchesCategory;
     });

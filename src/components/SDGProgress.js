@@ -1,16 +1,9 @@
 import React from 'react';
+import { Box, Typography, LinearProgress, Paper, useTheme, Tooltip } from '@mui/material';
 import { 
-  Box, 
-  Typography, 
-  LinearProgress, 
-  Paper, 
-  Grid, 
-  useTheme,
-  Tooltip,
   IconButton
 } from '@mui/material';
 import InfoIcon from '@mui/icons-material/Info';
-import { motion } from 'framer-motion';
 import TrendingUpIcon from '@mui/icons-material/TrendingUp';
 import TrendingDownIcon from '@mui/icons-material/TrendingDown';
 import TrendingFlatIcon from '@mui/icons-material/TrendingFlat';
