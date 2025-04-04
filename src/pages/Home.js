@@ -9,120 +9,120 @@ const sdgData = [
     id: 1,
     title: "No Poverty",
     description: "End poverty in all its forms everywhere",
-    color: "#E5243B",
-    image: "/images/E-WEB-Goal-01.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-01.png",
+    color: "#E5243B"
   },
   {
     id: 2,
     title: "Zero Hunger",
-    description: "End hunger, achieve food security and improved nutrition",
-    color: "#DDA63A",
-    image: "/images/E-WEB-Goal-02.png"
+    description: "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+    image: "/SDG-Awareness-/images/E-WEB-Goal-02.png",
+    color: "#DDA63A"
   },
   {
     id: 3,
     title: "Good Health and Well-being",
-    description: "Ensure healthy lives and promote well-being for all",
-    color: "#4C9F38",
-    image: "/images/E-WEB-Goal-03.png"
+    description: "Ensure healthy lives and promote well-being for all at all ages",
+    image: "/SDG-Awareness-/images/E-WEB-Goal-03.png",
+    color: "#4C9F38"
   },
   {
     id: 4,
     title: "Quality Education",
-    description: "Ensure inclusive and equitable quality education",
-    color: "#C5192D",
-    image: "/images/E-WEB-Goal-04.png"
+    description: "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+    image: "/SDG-Awareness-/images/E-WEB-Goal-04.png",
+    color: "#C5192D"
   },
   {
     id: 5,
     title: "Gender Equality",
     description: "Achieve gender equality and empower all women and girls",
-    color: "#FF3A21",
-    image: "/images/E-WEB-Goal-05.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-05.png",
+    color: "#FF3A21"
   },
   {
     id: 6,
     title: "Clean Water and Sanitation",
-    description: "Ensure availability and sustainable management of water",
-    color: "#26BDE2",
-    image: "/images/E-WEB-Goal-06.png"
+    description: "Ensure availability and sustainable management of water and sanitation for all",
+    image: "/SDG-Awareness-/images/E-WEB-Goal-06.png",
+    color: "#26BDE2"
   },
   {
     id: 7,
     title: "Affordable and Clean Energy",
-    description: "Ensure access to affordable, reliable, sustainable energy",
-    color: "#FCC30B",
-    image: "/images/E-WEB-Goal-07.png"
+    description: "Ensure access to affordable, reliable, sustainable and modern energy for all",
+    image: "/SDG-Awareness-/images/E-WEB-Goal-07.png",
+    color: "#FCC30B"
   },
   {
     id: 8,
     title: "Decent Work and Economic Growth",
-    description: "Promote sustained, inclusive and sustainable economic growth",
-    color: "#A21942",
-    image: "/images/E-WEB-Goal-08.png"
+    description: "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+    image: "/SDG-Awareness-/images/E-WEB-Goal-08.png",
+    color: "#A21942"
   },
   {
     id: 9,
     title: "Industry, Innovation and Infrastructure",
-    description: "Build resilient infrastructure, promote sustainable industrialization",
-    color: "#FD6925",
-    image: "/images/E-WEB-Goal-09.png"
+    description: "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+    image: "/SDG-Awareness-/images/E-WEB-Goal-09.png",
+    color: "#FD6925"
   },
   {
     id: 10,
-    title: "Reduced Inequalities",
+    title: "Reduced Inequality",
     description: "Reduce inequality within and among countries",
-    color: "#DD1367",
-    image: "/images/E-WEB-Goal-10.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-10.png",
+    color: "#DD1367"
   },
   {
     id: 11,
     title: "Sustainable Cities and Communities",
     description: "Make cities and human settlements inclusive, safe, resilient and sustainable",
-    color: "#FD9D24",
-    image: "/images/E-WEB-Goal-11.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-11.png",
+    color: "#FD9D24"
   },
   {
     id: 12,
     title: "Responsible Consumption and Production",
     description: "Ensure sustainable consumption and production patterns",
-    color: "#BF8B2E",
-    image: "/images/E-WEB-Goal-12.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-12.png",
+    color: "#BF8B2E"
   },
   {
     id: 13,
     title: "Climate Action",
     description: "Take urgent action to combat climate change and its impacts",
-    color: "#3F7E44",
-    image: "/images/E-WEB-Goal-13.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-13.png",
+    color: "#3F7E44"
   },
   {
     id: 14,
     title: "Life Below Water",
-    description: "Conserve and sustainably use the oceans, seas and marine resources",
-    color: "#0A97D9",
-    image: "/images/E-WEB-Goal-14.png"
+    description: "Conserve and sustainably use the oceans, seas and marine resources for sustainable development",
+    image: "/SDG-Awareness-/images/E-WEB-Goal-14.png",
+    color: "#0A97D9"
   },
   {
     id: 15,
     title: "Life on Land",
-    description: "Protect, restore and promote sustainable use of terrestrial ecosystems",
-    color: "#56C02B",
-    image: "/images/E-WEB-Goal-15.png"
+    description: "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
+    image: "/SDG-Awareness-/images/E-WEB-Goal-15.png",
+    color: "#56C02B"
   },
   {
     id: 16,
     title: "Peace, Justice and Strong Institutions",
-    description: "Promote peaceful and inclusive societies for sustainable development",
-    color: "#00689D",
-    image: "/images/E-WEB-Goal-16.png"
+    description: "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+    image: "/SDG-Awareness-/images/E-WEB-Goal-16.png",
+    color: "#00689D"
   },
   {
     id: 17,
     title: "Partnerships for the Goals",
-    description: "Strengthen the means of implementation and revitalize the Global Partnership",
-    color: "#19486A",
-    image: "/images/E-WEB-Goal-17.png"
+    description: "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
+    image: "/SDG-Awareness-/images/E-WEB-Goal-17.png",
+    color: "#19486A"
   }
 ];
 

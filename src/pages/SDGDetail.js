@@ -33,7 +33,7 @@ const sdgDetails = {
       "Some 1.3 billion people live in multidimensional poverty",
       "Half of all people living in poverty are under 18"
     ],
-    image: "/images/E-WEB-Goal-01.png",
+    image: "/SDG-Awareness-/images/E-WEB-Goal-01.png",
     progress: {
       progress: 65,
       year: 2023,
@@ -54,7 +54,7 @@ const sdgDetails = {
   },
   2: {
     title: "Zero Hunger",
-    description: "End hunger, achieve food security and improved nutrition",
+    description: "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
     color: "#DDA63A",
     targets: [
       "By 2030, end hunger and ensure access by all people to safe, nutritious and sufficient food",
@@ -66,11 +66,11 @@ const sdgDetails = {
       "1 in 9 people in the world are hungry",
       "2 billion people experience moderate or severe food insecurity",
     ],
-    image: "/images/E-WEB-Goal-02.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-02.png"
   },
   3: {
     title: "Good Health and Well-being",
-    description: "Ensure healthy lives and promote well-being for all",
+    description: "Ensure healthy lives and promote well-being for all at all ages",
     color: "#4C9F38",
     targets: [
       "Reduce the global maternal mortality ratio to less than 70 per 100,000 live births",
@@ -82,11 +82,11 @@ const sdgDetails = {
       "More than 6 million children still die before their fifth birthday each year",
       "Only half of women in developing regions receive the recommended amount of healthcare",
     ],
-    image: "/images/E-WEB-Goal-03.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-03.png"
   },
   4: {
     title: "Quality Education",
-    description: "Ensure inclusive and equitable quality education",
+    description: "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
     color: "#C5192D",
     targets: [
       "Ensure all girls and boys complete free, equitable and quality primary and secondary education",
@@ -98,7 +98,7 @@ const sdgDetails = {
       "617 million youth worldwide lack basic mathematics and literacy skills",
       "Only 40% of girls in sub-Saharan Africa complete lower secondary school",
     ],
-    image: "/images/E-WEB-Goal-04.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-04.png"
   },
   5: {
     title: "Gender Equality",
@@ -114,11 +114,11 @@ const sdgDetails = {
       "Women earn 77 cents for every dollar men earn for work of equal value",
       "Only 24% of national parliamentarians were women as of 2019",
     ],
-    image: "/images/E-WEB-Goal-05.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-05.png"
   },
   6: {
     title: "Clean Water and Sanitation",
-    description: "Ensure availability and sustainable management of water",
+    description: "Ensure availability and sustainable management of water and sanitation for all",
     color: "#26BDE2",
     targets: [
       "Achieve universal and equitable access to safe and affordable drinking water",
@@ -130,11 +130,11 @@ const sdgDetails = {
       "4.2 billion people lack safely managed sanitation services",
       "80% of wastewater flows back into the ecosystem without being treated",
     ],
-    image: "/images/E-WEB-Goal-06.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-06.png"
   },
   7: {
     title: "Affordable and Clean Energy",
-    description: "Ensure access to affordable, reliable, sustainable energy",
+    description: "Ensure access to affordable, reliable, sustainable and modern energy for all",
     color: "#FCC30B",
     targets: [
       "Ensure universal access to affordable, reliable and modern energy services",
@@ -146,11 +146,11 @@ const sdgDetails = {
       "3 billion people rely on wood, coal, charcoal or animal waste for cooking",
       "Renewable energy accounted for 17.5% of global energy consumption in 2016",
     ],
-    image: "/images/E-WEB-Goal-07.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-07.png"
   },
   8: {
     title: "Decent Work and Economic Growth",
-    description: "Promote sustained, inclusive and sustainable economic growth",
+    description: "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
     color: "#A21942",
     targets: [
       "Sustain per capita economic growth in accordance with national circumstances",
@@ -162,11 +162,11 @@ const sdgDetails = {
       "61% of workers are in informal employment",
       "Global unemployment is expected to increase by about 2.5 million in 2020",
     ],
-    image: "/images/E-WEB-Goal-08.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-08.png"
   },
   9: {
     title: "Industry, Innovation and Infrastructure",
-    description: "Build resilient infrastructure, promote sustainable industrialization",
+    description: "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
     color: "#FD6925",
     targets: [
       "Develop quality, reliable, sustainable and resilient infrastructure",
@@ -178,10 +178,10 @@ const sdgDetails = {
       "Manufacturing value added per capita is only $100 in the least developed countries",
       "Investment in research and development globally is less than 2% of GDP",
     ],
-    image: "/images/E-WEB-Goal-09.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-09.png"
   },
   10: {
-    title: "Reduced Inequalities",
+    title: "Reduced Inequality",
     description: "Reduce inequality within and among countries",
     color: "#DD1367",
     targets: [
@@ -194,7 +194,7 @@ const sdgDetails = {
       "The poorest 40% earn less than 25% of global income",
       "Women earn 77 cents for every dollar men earn for work of equal value",
     ],
-    image: "/images/E-WEB-Goal-10.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-10.png"
   },
   11: {
     title: "Sustainable Cities and Communities",
@@ -210,7 +210,7 @@ const sdgDetails = {
       "828 million people live in slums today",
       "Cities occupy just 3% of the Earth's land but account for 60-80% of energy consumption",
     ],
-    image: "/images/E-WEB-Goal-11.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-11.png"
   },
   12: {
     title: "Responsible Consumption and Production",
@@ -226,7 +226,7 @@ const sdgDetails = {
       "If people worldwide switched to energy-efficient lightbulbs, the world would save $120 billion annually",
       "Each year, an estimated 1/3 of all food produced ends up rotting in the bins of consumers and retailers",
     ],
-    image: "/images/E-WEB-Goal-12.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-12.png"
   },
   13: {
     title: "Climate Action",
@@ -242,11 +242,11 @@ const sdgDetails = {
       "The last 7 years have been the warmest on record",
       "Global emissions of CO2 have increased by 50% since 1990",
     ],
-    image: "/images/E-WEB-Goal-13.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-13.png"
   },
   14: {
     title: "Life Below Water",
-    description: "Conserve and sustainably use the oceans, seas and marine resources",
+    description: "Conserve and sustainably use the oceans, seas and marine resources for sustainable development",
     color: "#0A97D9",
     targets: [
       "Prevent and significantly reduce marine pollution of all kinds",
@@ -258,11 +258,11 @@ const sdgDetails = {
       "3 billion people depend on marine and coastal biodiversity",
       "30% of the world's fish stocks are overexploited",
     ],
-    image: "/images/E-WEB-Goal-14.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-14.png"
   },
   15: {
     title: "Life on Land",
-    description: "Protect, restore and promote sustainable use of terrestrial ecosystems",
+    description: "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
     color: "#56C02B",
     targets: [
       "Ensure the conservation, restoration and sustainable use of terrestrial ecosystems",
@@ -274,11 +274,11 @@ const sdgDetails = {
       "75% of the Earth's land surface is significantly altered by human actions",
       "1 million animal and plant species are threatened with extinction",
     ],
-    image: "/images/E-WEB-Goal-15.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-15.png"
   },
   16: {
     title: "Peace, Justice and Strong Institutions",
-    description: "Promote peaceful and inclusive societies for sustainable development",
+    description: "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
     color: "#00689D",
     targets: [
       "Significantly reduce all forms of violence and related death rates everywhere",
@@ -290,11 +290,11 @@ const sdgDetails = {
       "10 million stateless people are denied nationality and basic rights",
       "Corruption, bribery, theft and tax evasion cost developing countries $1.26 trillion per year",
     ],
-    image: "/images/E-WEB-Goal-16.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-16.png"
   },
   17: {
     title: "Partnerships for the Goals",
-    description: "Strengthen the means of implementation and revitalize the Global Partnership",
+    description: "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
     color: "#19486A",
     targets: [
       "Strengthen domestic resource mobilization and international support for developing countries",
@@ -306,7 +306,7 @@ const sdgDetails = {
       "79% of imports from developing countries enter developed countries duty-free",
       "The number of internet users in Africa almost doubled in the past four years",
     ],
-    image: "/images/E-WEB-Goal-17.png"
+    image: "/SDG-Awareness-/images/E-WEB-Goal-17.png"
   }
 };
 

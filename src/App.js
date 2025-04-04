@@ -74,7 +74,7 @@ function App() {
     <ThemeContext.Provider value={{ isDarkMode, toggleTheme }}>
       <ThemeProvider theme={theme}>
         <CssBaseline />
-        <Router>
+        <Router basename="/SDG-Awareness-">
           <Box sx={{ 
             display: 'flex', 
             flexDirection: 'column',
