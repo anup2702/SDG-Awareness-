@@ -46,11 +46,14 @@ src/
 
 Contributions are always welcome!
 Feel free to fork the repository, create a new branch, and submit a pull request.
+
 If you find bugs or want to suggest enhancements, you can open an Issue.
 
 
 ## Acknowledgments
 
 United Nations – For SDG information and icons
+
 Material-UI – For the UI component library
+
 React Community – For continuous support and inspiration
