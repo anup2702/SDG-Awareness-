@@ -25,9 +25,13 @@ A responsive and interactive React application designed to raise awareness about
 ## Technologies Used
 
 ⚛️ React – UI library
+
 🎨 Material-UI – Pre-built UI components
+
 🔁 React Router – Page routing
+
 🎞️ Framer Motion – Animations
+
 💡 JavaScript (ES6+)
 
 ## Project Structure
